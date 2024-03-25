@@ -1,4 +1,4 @@
-**Smallest Non-Occurring Integer Finder**
+**SMALLEST NON-OCCURRING INTEGER FINDER**
 
 **Overview**
 
